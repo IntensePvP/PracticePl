@@ -1,0 +1,4 @@
+name: IntensePractice
+version: 1.0
+depend: [IntenseApi]
+main: fr.Intense.Practice.Main
